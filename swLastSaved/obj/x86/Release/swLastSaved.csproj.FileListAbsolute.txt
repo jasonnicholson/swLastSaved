@@ -1,0 +1,7 @@
+C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLastSaved\swLastSaved\bin\Release\swLastSaved.exe
+C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLastSaved\swLastSaved\bin\Release\swLastSaved.pdb
+C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Release\Interop.SwDocumentMgr.dll
+C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Release\swLastSaved.csproj.ResolveComReference.cache
+C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Release\swLastSaved.exe
+C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Release\swLastSaved.pdb
