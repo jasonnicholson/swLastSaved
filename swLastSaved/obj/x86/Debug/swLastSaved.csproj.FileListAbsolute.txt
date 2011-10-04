@@ -5,3 +5,10 @@ C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLas
 C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Debug\swLastSaved.exe
 C:\Documents and Settings\IE User\my documents\visual studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Debug\swLastSaved.pdb
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Debug\Interop.SwDocumentMgr.dll
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Debug\swLastSaved.csproj.ResolveComReference.cache
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Debug\swLastSaved.exe
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Debug\swLastSaved.pdb
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\swLastSaved\swLastSaved\bin\Debug\swLastSaved.exe
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\swLastSaved\swLastSaved\bin\Debug\swLastSaved.pdb
+C:\Users\jnicholson\Documents\Visual Studio 2010\Projects\swLastSaved\swLastSaved\obj\x86\Debug\ResolveAssemblyReference.cache

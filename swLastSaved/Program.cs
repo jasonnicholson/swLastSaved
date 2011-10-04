@@ -38,7 +38,7 @@ namespace swLastSaved
             SwDmDocumentType docType = setDocType(docPath);
 
             SwDMClassFactory dmClassFact = new SwDMClassFactory();
-            SwDMApplication dmDocManager = dmClassFact.GetApplication("C3021E19A05D3A4B15A8D40AD7B0474E7FD073393806CD0E") as SwDMApplication;
+            SwDMApplication dmDocManager = dmClassFact.GetApplication("<Insert your key here.>") as SwDMApplication;
             SwDmDocumentOpenError OpenError;
             SwDMDocument dmDoc = dmDocManager.GetDocument(docPath, docType, true, out OpenError) as SwDMDocument;
 
@@ -77,7 +77,7 @@ namespace swLastSaved
                         inputError(quietMode);
                         break;
                     case SwDmDocumentOpenError.swDmDocumentOpenErrorNonSW:
-                        Console.Write(docPath + "\tNon-SolidWorks file was opened");
+                        Console.WriteLine(docPath + "\tNon-SolidWorks file was opened");
                         inputError(quietMode);
                         break;
                     default:
@@ -141,7 +141,7 @@ Options
             message is suppressed but you are still informed about problems 
             opening files.
 
-Version 2011-Sept-29 12:02
+Version 2011-Oct-04 18:24
 Written and Maintained by Jason Nicholson
 http://github.com/jasonnicholson/swLastSaved");
         }
